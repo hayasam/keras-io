@@ -1,4 +1,4 @@
-FROM python:3.7
+FROM python:3.10.13
 
 ARG TF_VERSION=2.3.0
 COPY requirements.txt ./
