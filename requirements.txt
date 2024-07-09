@@ -8,3 +8,4 @@ black==19.10b0
 pathlib
 tensorflow
 PyYAML
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
